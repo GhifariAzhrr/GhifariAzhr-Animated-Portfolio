@@ -5,7 +5,7 @@
 | [<img src="https://github.com/ghifariazhrr.png?size=250" width=115><br><sub>@ghifariazhrr</sub>](https://github.com/ghifariazhrr) <br><br>
 [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://saweria.co/GhifariAzhr) | 
 
-## Preview
+# Preview
 https://ghifariazhrr.github.io/GhifariAzhr-Animated-Portfolio/
 
 ---
